@@ -1,0 +1,136 @@
+.navbar navbar-expand-lg navbar-light bg-light {
+  font-family: 'Raleway', sans-serif;
+  background-color: pink;
+}
+.row-md-8 img {
+  width: 70%;
+  height: 70%;
+  margin-left: 50px;
+  object-fit: cover;
+  object-position: 30% 20%;
+}
+img {
+  margin: -10px 0px 0px -180px;
+}
+.heading {
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+h1 {
+  font-family: 'Mrs Saint Delafield', cursive;
+}
+h2 {
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 100px;
+  font-weight: bold;
+  color: #A1726C;
+}
+.jumbotron jumbotron-fluid {
+  position: relative;
+  background-color: lightpink;
+  background-image: url('https://img.freepik.com/free-vector/watercolor-floral-background-with-soft-colors_52683-28620.jpg?size=626&ext=jpg&ga=GA1.2.1358800006.1620086400');
+  background-size: cover;
+  font-family: 'Mrs Saint Delafield', cursive !important;
+}
+
+.display-4 {
+  font-family: 'Mrs Saint Delafield', cursive !important;
+  text-align: center;
+  color: #FAF4F3;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+
+}
+
+.row {
+  padding-bottom: 75px;
+  width: 100%;
+  margin: 0 auto 0;
+
+}
+h1 {
+  font-family: 'Mrs Saint Delafield', cursive;
+  font-size: 1000px;
+}
+.navbar-brand {
+  font-family: 'Raleway', sans-serif;
+}
+.heading {
+  font-family: 'Mrs. Saint Delafield', cursive;
+}
+row-md-2 {
+  padding-bottom: 75px;
+  width: 78%;
+  margin: 0 auto 0;
+}
+a {
+  color: #FAEDEC;
+}
+h3, h4, h5, p {
+  font-family: 'Raleway', sans-serif;
+    color: #BA7A71;
+    text-align: center;
+
+}
+#nav {
+    position: relative;
+    left: -90px;
+    background-color: lightpink;
+}
+body {
+  background-color: LavenderBlush;
+}
+.lead {
+  color: black;
+}
+.row {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+ul {
+  font-family: 'Raleway', serif;
+  color: #674B48;
+}
+.books, .horse, .travel{
+  width: 70%;
+  overflow: hidden;
+  margin-left: 30px;
+  margin-top: 20px;
+  border-radius: 50%;
+  width: 10000px;
+}
+
+.jumbotron{
+    background-color: #C8D7DF;
+    text-align: center;
+    color: #EFC4C0;
+}
+.col-md-4 {
+}
+.travel, .horse, .books {
+  width: 200px;
+}
+.col-md-7 {
+  padding-top: 20px;
+  padding-left: none;
+   background-clip: content-box;
+   padding-right: 100px;
+}
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+.row {
+  position: relative;
+  object-position: center;
+}
+.my-4 {
+  width: 80%;
+}
+.books, .horse, .travel {
+  margin-bottom: 20px;
+}
+.intro {
+    color: #EFC4C0;
+    font-family: 'Mrs Saint Delafield', cursive;
+    letter-spacing: 10px;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
