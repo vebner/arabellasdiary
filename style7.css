@@ -123,8 +123,30 @@ ul {
 .my-4 {
   width: 80%;
 }
+.left {
+  text-align: center;
+  font-size: 50px;
+  ]
+}
+.lefttext {
+  text-align: left;
+  font-size: 40px;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  font-family: 'Mrs Saint Delafield', cursive;
+}
 .books, .horse, .travel {
   margin-bottom: 20px;
+}
+.date {
+  text-align: left;
+}
+.movietitle {
+  font-size: 50px;
+  text-align: center;
+}
+.l {
+  text-align: left;
 }
 .intro {
     color: #EFC4C0;
@@ -133,4 +155,7 @@ ul {
     font-weight: bold;
     font-size: 60px;
     text-align: center;
+}
+li {
+  color: #96547B;
 }
